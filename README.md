@@ -1,0 +1,1 @@
+This document is a member submission to the W3C RDF Web Apps Working Group regarding Proxy Vocabularies as a mechanism to replace much of the capabilities of the @profile mechanism by adding entailment rules to a document referenced by an @vocab property.
